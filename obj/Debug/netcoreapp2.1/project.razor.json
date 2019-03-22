@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/patty/Documents/Dojo/c_sharp_stack/Belt_Exam/DojoActivity/DojoActivity.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  }
+}
